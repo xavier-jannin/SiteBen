@@ -19,6 +19,10 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4d3f0", endColorstr="#d7f4eb", GradientType=1);
 }
 
+main {
+  max-width: 768px;
+  margin: 0 auto;
+}
 
 /*navbar Header*/
 * {
@@ -52,7 +56,6 @@ h1 {
   color: #2d5b8f;
   text-decoration: none;
   text-transform: uppercase;
-  
 }
 
 .popover {
@@ -72,6 +75,7 @@ h1 {
 }
 
 .popover .content {
+  
   display: flex;
   align-items: center;
   justify-content: center;
@@ -100,6 +104,7 @@ h1 {
 }
 
 .nav_list li {
+  
   padding: 15px 0;
   text-transform: uppercase;
   transform: translateY(200px);
@@ -168,7 +173,6 @@ h1 {
   }
 }
 
-
 /*Bandeau*/
 .bandeau {
   .bandeau {
@@ -177,7 +181,7 @@ h1 {
   }
 
   .img-Ben {
-    opacity: 0.56;
+    opacity: 1;
     position: relative;
     left: 0;
     top: 0;
@@ -192,7 +196,6 @@ h1 {
 
 .bandeau h3,
 .bandeau p {
- 
   text-align: center;
   font-family: "Helvetica Neue, Helvetica";
   color: rgb(255, 6, 6);
