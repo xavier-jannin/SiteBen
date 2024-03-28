@@ -14,19 +14,19 @@
        <ul class = 'nav_list'>
          
          <div class = 'nav_list_item'>
-         <li><a href="#">Home</a></li>
+         <li><a href="#">Je</a></li>
          </div>
         <div class = 'nav_list_item'>
-           <li><a href="#">About</a></li>
+           <li><a href="#">T'aime</a></li>
          </div>
        <div class = 'nav_list_item'>
-         <li><a href="#">Products</a></li>
+         <li><a href="#">Mon</a></li>
          </div>
        <div class = 'nav_list_item'>
-         <li><a href="#">Services</a></li>
+         <li><a href="#">Bébé</a></li>
          </div>
         <div class = 'nav_list_item'>
-           <li><a href="#">Contact</a></li>
+           <li><a href="#"></a></li>
          </div>
          
        </ul>
