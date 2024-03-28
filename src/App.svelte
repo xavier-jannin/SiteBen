@@ -5,19 +5,21 @@
   let routes = {
     // define your routes here
     "/": Header,
-  "/home": Home,	
-     "/footer": Footer,
+    "/home": Home,
+    "/footer": Footer,
     // '/other': OtherComponent,
   };
 </script>
 
 
-<Header/>
 
-  <body>
-	<Home/>
-  
-  </body>
 
-<Footer/>
+<Header />
 
+<body>
+  <main>
+    <Home />
+  </main>
+</body>
+
+<Footer />
