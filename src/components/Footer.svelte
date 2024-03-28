@@ -29,7 +29,7 @@
       <li class="menu__item"><a class="menu__link" href="#">Contact</a></li>
 
     </ul>
-    <p>&copy;2021 Nadine Coelho | All Rights Reserved</p>
+   
   </footer>
 
 
