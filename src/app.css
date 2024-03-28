@@ -77,7 +77,7 @@ h1 {
 .popover .content {
   
   display: flex;
-  align-items: center;
+  align-items:first baseline;
   justify-content: center;
   position: relative;
   width: 0;
