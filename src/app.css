@@ -181,11 +181,12 @@ h1 {
   }
 
   .img-Ben {
+    float:right;
     opacity: 1;
     position: relative;
     left: 0;
     top: 0;
-    width: 100%;
+    width: 80%;
     height: auto;
   }
 
