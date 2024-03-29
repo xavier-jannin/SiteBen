@@ -14,16 +14,16 @@
        <ul class = 'nav_list'>
          
          <div class = 'nav_list_item'>
-         <li><a href="#">Je</a></li>
+         <li><a href="#">Nouveautée</a></li>
          </div>
         <div class = 'nav_list_item'>
-           <li><a href="#">T'aime</a></li>
+           <li><a href="#">Tous les produits</a></li>
          </div>
        <div class = 'nav_list_item'>
-         <li><a href="#">Mon</a></li>
+         <li><a href="#">Me contacter</a></li>
          </div>
        <div class = 'nav_list_item'>
-         <li><a href="#">Bébé</a></li>
+         <li><a href="#">À propos</a></li>
          </div>
         <div class = 'nav_list_item'>
            <li><a href="#"></a></li>

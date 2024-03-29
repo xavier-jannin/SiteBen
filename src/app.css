@@ -77,15 +77,15 @@ h1 {
 .popover .content {
   
   display: flex;
-  align-items:first baseline;
-  justify-content: center;
+  align-items:flex-start;
+  justify-content: flex-start;
   position: relative;
   width: 0;
   height: 0;
   color: #fff;
   background-color: #d7f4eb;
   animation: 1s grow ease forwards;
-  text-align: center;
+  text-align: left;
 }
 
 
