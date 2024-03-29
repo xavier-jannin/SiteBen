@@ -1,7 +1,8 @@
 <script>
+  
 </script>
 
-<h1> Page nouveautées</h1>
+<h1> Page nouveautée</h1>
 
 
 
