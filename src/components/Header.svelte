@@ -14,19 +14,19 @@
        <ul class = 'nav_list'>
          
          <div class = 'nav_list_item'>
-         <li><a href="#">Nouveautée</a></li>
+         <li><a href="#/Nouveautees">Nouveautées</a></li>
          </div>
         <div class = 'nav_list_item'>
-           <li><a href="#">Tous les produits</a></li>
+           <li><a href="#/TousLesProduits">Tous les produits</a></li>
          </div>
        <div class = 'nav_list_item'>
-         <li><a href="#">Me contacter</a></li>
+         <li><a href="#/MaSelection">Ma selection</a></li>
          </div>
        <div class = 'nav_list_item'>
-         <li><a href="#">À propos</a></li>
+         <li><a href="#/MeContacter">Me contacter</a></li>
          </div>
         <div class = 'nav_list_item'>
-           <li><a href="#"></a></li>
+         <li><a href="#/APropos">À propos</a></li>
          </div>
          
        </ul>

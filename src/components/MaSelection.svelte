@@ -2,7 +2,7 @@
   
 </script>
 
-<h1> Page nouveautées</h1>
+<h1> Ma selection</h1>
 
 
 
