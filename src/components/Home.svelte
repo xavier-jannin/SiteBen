@@ -7,7 +7,7 @@
 <div class="bandeau">
   <img
     class="img-Ben"
-    src="/img/Ben-img-home.png"
+    src="/img/Ben.png"
     alt="phot de Béné"
   >
 
