@@ -30,10 +30,10 @@
 
 <Header />
 
-<body>
+
   <main>
     <Router {routes}/>
   </main>
-</body>
+
 
 <Footer />

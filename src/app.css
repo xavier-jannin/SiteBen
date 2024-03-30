@@ -1,5 +1,13 @@
-body {
-  height: 80vh;
+
+header {
+  min-height: 100px;
+}
+
+html,body {
+  height: 100%;
+	font-size: 100%;
+
+    
   background: rgb(244, 211, 240);
   background: -moz-linear-gradient(
     35deg,
@@ -17,12 +25,18 @@ body {
     rgba(215, 244, 235, 1) 68%
   );
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4d3f0", endColorstr="#d7f4eb", GradientType=1);
+
+}
+body{
+  width: 100%;
 }
 
-main {
-  max-width: 768px;
-  margin: 0 auto;
+section {
+  height:auto;
+min-height: 300px;
+margin-bottom: 50px;	/* on réserve la place du footer */
 }
+
 
 /*navbar Header*/
 * {
@@ -31,8 +45,8 @@ main {
 }
 
 .containerUp {
-  margin-bottom: 5%;
-  min-height: 11vh;
+  
+  margin-bottom: 4.5%;
   display: flex;
   justify-content: center;
   align-items: center;
