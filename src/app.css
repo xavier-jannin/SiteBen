@@ -8,25 +8,11 @@ html,body {
 	font-size: 100%;
 
 div#app {
-  background: rgb(244, 211, 240);
-  background: -moz-linear-gradient(
-    35deg,
-    rgba(244, 211, 240, 1) 42%,
-    rgba(215, 244, 235, 1) 68%
-  );
-  background: -webkit-linear-gradient(
-    35deg,
-    rgba(244, 211, 240, 1) 42%,
-    rgba(215, 244, 235, 1) 68%
-  );
-  background: linear-gradient(
-    35deg,
-    rgba(244, 211, 240, 1) 42%,
-    rgba(215, 244, 235, 1) 68%
-  );
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4d3f0", endColorstr="#d7f4eb", GradientType=1);
-
-
+  background: rgb(215,244,235);
+background: -moz-linear-gradient(328deg, rgba(215,244,235,1) 50%, rgba(244,211,240,1) 64%);
+background: -webkit-linear-gradient(328deg, rgba(215,244,235,1) 50%, rgba(244,211,240,1) 64%);
+background: linear-gradient(328deg, rgba(215,244,235,1) 50%, rgba(244,211,240,1) 64%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d7f4eb",endColorstr="#f4d3f0",GradientType=1);
 }
 
 }
