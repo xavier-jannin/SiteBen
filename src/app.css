@@ -7,7 +7,7 @@ html,body {
   height: 100%;
 	font-size: 100%;
 
-    
+div#app {
   background: rgb(244, 211, 240);
   background: -moz-linear-gradient(
     35deg,
@@ -26,9 +26,13 @@ html,body {
   );
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f4d3f0", endColorstr="#d7f4eb", GradientType=1);
 
+
+}
+
 }
 body{
   width: 100%;
+
 }
 
 section {
