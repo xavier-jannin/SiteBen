@@ -26,13 +26,13 @@
         </div>
 
         <div class="product">
-            <img src="\img\A26F910C-7A35-4BA7-B230-4F302F5B046F.PNG" alt="Chemise élégante">
+            <img src="/img/image0.png" alt="Chemise élégante">
             <h3>Chemise élégante</h3>
             <p>Prix : 49,99 €</p>
         </div>
   
         <div class="product">
-            <img src=" \img\DADF9449-FC11-4A29-BA24-11A110FC89D9.JPG"alt="Chemise élégante">
+            <img src="/img/image0.png"alt="Chemise élégante">
             <h3>Chemise élégante</h3>
             <p>Prix : 49,99 €</p>
         </div>
