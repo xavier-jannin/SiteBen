@@ -3,8 +3,7 @@
     <div class="footer-basic">
       <div class="social">
         <a href="#"><i class="icon ion-social-instagram"></i></a><a href="https://www.tiktok.com/@glowandbeautybyben?_t=8l6dnQL2Xmz&_r=1"
-          ><i class="fab fa-tiktok fa-2x"></i></a
-        ><a href="#"><i class="icon ion-social-twitter"></i></a><a href="https://www.facebook.com/benedicte.renault02"
+          ><i class="fab fa-tiktok fa-2x"></i></a><a href="https://www.facebook.com/benedicte.renault02"
           ><i class="icon ion-social-facebook"></i></a
         >
       </div>
