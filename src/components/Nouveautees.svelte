@@ -7,38 +7,38 @@
 <section class="Nouveautées">
     <div class="products">
         <div class="product">
-            <img src="public\img\istockphoto-1473899426-1024x1024.jpg" alt="Chemise élégante">
+            <img src="/img/Ben.png" alt="Chemise élégante">
             <h3>Chemise élégante</h3>
             <p>Prix : 49,99 €</p>
         </div>
         <!-- Ajoutez les 9 autres produits ici -->
 
         <div class="product">
-            <img src="public\img\istockphoto-1473899426-1024x1024.jpg" alt="Chemise élégante">
+            <img src="/img/Ben.png" alt="Chemise élégante">
             <h3>Chemise élégante</h3>
             <p>Prix : 49,99 €</p>
         </div>
 
         <div class="product">
-            <img src="public\img\istockphoto-1473899426-1024x1024.jpg" alt="Chemise élégante">
+            <img src="/img/Ben.png" alt="Chemise élégante">
             <h3>Chemise élégante</h3>
             <p>Prix : 49,99 €</p>
         </div>
 
         <div class="product">
-            <img src="public\img\istockphoto-1473899426-1024x1024.jpg" alt="Chemise élégante">
+            <img src="/img/Ben.png" alt="Chemise élégante">
             <h3>Chemise élégante</h3>
             <p>Prix : 49,99 €</p>
         </div>
   
         <div class="product">
-            <img src="public\img\istockphoto-1473899426-1024x1024.jpg" alt="Chemise élégante">
+            <img src=" /img/Ben.png"alt="Chemise élégante">
             <h3>Chemise élégante</h3>
             <p>Prix : 49,99 €</p>
         </div>
     
         <div class="product">
-            <img src="public\img\istockphoto-1473899426-1024x1024.jpg" alt="Chemise élégante">
+            <img src="/img/Ben.png" alt="Chemise élégante">
             <h3>Chemise élégante</h3>
             <p>Prix : 49,99 €</p>
         </div>
