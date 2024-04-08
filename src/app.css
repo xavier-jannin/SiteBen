@@ -1,32 +1,41 @@
-
 header {
   min-height: 100px;
 }
 
-html,body {
+html,
+body {
   height: 100%;
-	font-size: 100%;
+  font-size: 100%;
 
-div#app {
-  background: rgb(215,244,235);
-background: -moz-linear-gradient(328deg, rgba(215,244,235,1) 50%, rgba(244,211,240,1) 64%);
-background: -webkit-linear-gradient(328deg, rgba(215,244,235,1) 50%, rgba(244,211,240,1) 64%);
-background: linear-gradient(328deg, rgba(215,244,235,1) 50%, rgba(244,211,240,1) 64%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d7f4eb",endColorstr="#f4d3f0",GradientType=1);
+  div#app {
+    background: rgb(215, 244, 235);
+    background: -moz-linear-gradient(
+      328deg,
+      rgba(215, 244, 235, 1) 50%,
+      rgba(244, 211, 240, 1) 64%
+    );
+    background: -webkit-linear-gradient(
+      328deg,
+      rgba(215, 244, 235, 1) 50%,
+      rgba(244, 211, 240, 1) 64%
+    );
+    background: linear-gradient(
+      328deg,
+      rgba(215, 244, 235, 1) 50%,
+      rgba(244, 211, 240, 1) 64%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#d7f4eb",endColorstr="#f4d3f0",GradientType=1);
+  }
 }
-
-}
-body{
+body {
   width: 100%;
-
 }
 
-section {
-  height:auto;
-min-height: 300px;
-margin-bottom: 50px;	/* on réserve la place du footer */
+section.bandeau {
+  height: auto;
+  min-height: 300px;
+  margin-bottom: 50px; /* on réserve la place du footer */
 }
-
 
 /*navbar Header*/
 * {
@@ -35,7 +44,6 @@ margin-bottom: 50px;	/* on réserve la place du footer */
 }
 
 .containerUp {
-  
   margin-bottom: 4.5%;
   display: flex;
   justify-content: center;
@@ -68,7 +76,7 @@ h1 {
 }
 
 .popover:target {
-  position: absolute;
+  position: absolute;z-index: 1;
   right: 0;
   top: 0;
   width: 100%;
@@ -79,9 +87,8 @@ h1 {
 }
 
 .popover .content {
-  
   display: flex;
-  align-items:flex-start;
+  align-items: flex-start;
   justify-content: flex-start;
   position: relative;
   width: 0;
@@ -91,7 +98,6 @@ h1 {
   animation: 1s grow ease forwards;
   text-align: left;
 }
-
 
 .nav_list {
   list-style-type: none;
@@ -109,7 +115,6 @@ h1 {
 }
 
 .nav_list li {
- 
   padding: 15px 0;
   text-transform: uppercase;
   transform: translateY(200px);
@@ -177,5 +182,3 @@ h1 {
     opacity: 1;
   }
 }
-
-

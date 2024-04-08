@@ -23,7 +23,7 @@
   /*Bandeau*/
 section.bandeau {
  
-    overflow: hidden;
+    
     position: relative;
   }
 

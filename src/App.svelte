@@ -4,7 +4,7 @@
   import Header from "./components/Header.svelte";
   import Home from "./components/Home.svelte";
   import Footer from "./components/Footer.svelte";
-  import Nouveautees from './components/Nouveautees.svelte';
+  import Nouveautees from "./components/Nouveautees.svelte";
   import APropos from "./components/APropos.svelte";
   import MeContacter from "./components/MeContacter.svelte";
   import MaSelection from "./components/MaSelection.svelte";
